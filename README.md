@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HUSSAM205/HUSSAM205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Hussam%20Aburahmah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Project%20Manager%20%C2%B7%20FDE%20Enthusiast&descAlignY=58&descSize=18)
 
-Here are some ideas to get you started:
+<a href="https://hussam205.github.io/hussam-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:hossammotasem2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=560&lines=AI+Engineer+%7C+Project+Manager;Forward+Deployed+Engineering+(FDE)+Enthusiast;Building+AI+Chatbots+%2B+ML%2FDL+Systems;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+
+</div>
+
+## About me
+
+- 🤖 Focused on **AI chatbots**, machine learning, and deep learning
+- 🚀 **FDE (Forward Deployed Engineering)** enthusiast — I like sitting close to the actual problem and shipping fast
+- 🧭 Work as an **AI Engineer & Project Manager** — building the thing *and* driving it to done
+- 🛠️ Full-stack builder: I ship real backends (APIs, databases, deployment), not just UI
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [**GradTrack CRM**](https://github.com/HUSSAM205/CRM) — [live demo](https://gradtrack-crm.onrender.com) | Full-stack team CRM: kanban tasks, milestones, file uploads, real-time shared data, hand-built animation system |
+| [**Fezzy AI Bot**](https://github.com/HUSSAM205/Fezzy-AI-Bot) | AI chatbot project |
+| [**Riyadh Eats**](https://github.com/HUSSAM205/riyadh-eats) | Food delivery web app (TypeScript) |
+| [**Interactive Bingo**](https://github.com/HUSSAM205/bingo-embedded-system-Interactive-Bingo) | Embedded systems — interactive electronic bingo game |
+| [**Quantium Virtual Internship**](https://github.com/HUSSAM205/Quantium-Virtual-Internship) | Data analytics virtual internship program |
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HUSSAM205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSAM205&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=HUSSAM205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer)
+
+</div>
